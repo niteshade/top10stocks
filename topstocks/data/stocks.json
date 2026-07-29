@@ -99,6 +99,15 @@
       "changePositive": false,
       "marketCap": 1097360146432,
       "rank": 11
+    },
+    {
+      "ticker": "LLY",
+      "name": "Eli Lilly & Co.",
+      "price": 1210.02,
+      "change": "-0.87%",
+      "changePositive": false,
+      "marketCap": 1079024943104,
+      "rank": 12
     }
   ]
 }
