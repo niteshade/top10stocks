@@ -106,17 +106,8 @@
       "price": 1220.28,
       "change": "+0.43%",
       "changePositive": true,
-      "marketCap": 1087705186304,
+      "marketCap": 1088174161920,
       "rank": 12
-    },
-    {
-      "ticker": "MU",
-      "name": "Micron Technology",
-      "price": 911.29,
-      "change": "+4.92%",
-      "changePositive": true,
-      "marketCap": 1029204672512,
-      "rank": 13
     }
   ]
 }
