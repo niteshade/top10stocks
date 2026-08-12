@@ -1,113 +1,122 @@
 {
-  "updated": "2026-08-11",
+  "updated": "2026-08-12",
   "stocks": [
     {
       "ticker": "NVDA",
       "name": "NVIDIA Corp.",
-      "price": 217.5,
-      "change": "-0.02%",
-      "changePositive": false,
-      "marketCap": 5268067319808,
+      "price": 224.09,
+      "change": "+3.03%",
+      "changePositive": true,
+      "marketCap": 5427683655680,
       "rank": 1
     },
     {
       "ticker": "AAPL",
       "name": "Apple Inc.",
-      "price": 304.91,
-      "change": "-1.09%",
+      "price": 302.25,
+      "change": "-0.87%",
       "changePositive": false,
-      "marketCap": 4449911701504,
+      "marketCap": 4411090796544,
       "rank": 2
     },
     {
       "ticker": "GOOGL",
       "name": "Alphabet Inc. (Class A)",
-      "price": 343.8,
-      "change": "-3.84%",
+      "price": 343.54,
+      "change": "-0.08%",
       "changePositive": false,
-      "marketCap": 4204651610112,
+      "marketCap": 4201472065536,
       "rank": 3
     },
     {
       "ticker": "GOOG",
       "name": "Alphabet Inc. (Class C)",
-      "price": 343.0,
-      "change": "-3.61%",
+      "price": 342.37,
+      "change": "-0.18%",
       "changePositive": false,
-      "marketCap": 4194867609600,
+      "marketCap": 4187162935296,
       "rank": 4
     },
     {
       "ticker": "MSFT",
       "name": "Microsoft Corp.",
-      "price": 503.81,
-      "change": "-0.44%",
+      "price": 492.43,
+      "change": "-2.26%",
       "changePositive": false,
-      "marketCap": 3741064101888,
+      "marketCap": 3656561459200,
       "rank": 5
     },
     {
       "ticker": "AMZN",
       "name": "Amazon.com Inc.",
-      "price": 272.27,
-      "change": "-2.09%",
+      "price": 267.28,
+      "change": "-1.83%",
       "changePositive": false,
-      "marketCap": 2936789270528,
+      "marketCap": 2882965864448,
       "rank": 6
     },
     {
       "ticker": "AVGO",
       "name": "Broadcom Inc.",
-      "price": 416.08,
-      "change": "-1.50%",
+      "price": 416.05,
+      "change": "-0.01%",
       "changePositive": false,
-      "marketCap": 1979533885440,
+      "marketCap": 1979391279104,
       "rank": 7
     },
     {
       "ticker": "META",
       "name": "Meta Platforms Inc.",
-      "price": 599.12,
-      "change": "+0.71%",
-      "changePositive": true,
-      "marketCap": 1526261874688,
+      "price": 578.85,
+      "change": "-3.38%",
+      "changePositive": false,
+      "marketCap": 1474623832064,
       "rank": 8
     },
     {
       "ticker": "TSLA",
       "name": "Tesla Inc.",
-      "price": 332.81,
-      "change": "+0.58%",
-      "changePositive": true,
-      "marketCap": 1314448867328,
-      "rank": 9
-    },
-    {
-      "ticker": "BRK-A",
-      "name": "Berkshire Hathaway (A)",
-      "price": 775000.0,
-      "change": "-2.37%",
+      "price": 327.51,
+      "change": "-1.59%",
       "changePositive": false,
-      "marketCap": 1106033508352,
-      "rank": 10
+      "marketCap": 1293516406784,
+      "rank": 9
     },
     {
       "ticker": "BRK-B",
       "name": "Berkshire Hathaway (B)",
-      "price": 516.38,
-      "change": "-2.46%",
+      "price": 510.0,
+      "change": "-1.24%",
       "changePositive": false,
-      "marketCap": 1105419698176,
+      "marketCap": 1091761995776,
+      "rank": 10
+    },
+    {
+      "ticker": "BRK-A",
+      "name": "Berkshire Hathaway (A)",
+      "price": 764000.0,
+      "change": "-1.42%",
+      "changePositive": false,
+      "marketCap": 1090334949376,
       "rank": 11
     },
     {
       "ticker": "LLY",
       "name": "Eli Lilly & Co.",
-      "price": 1215.02,
-      "change": "-1.37%",
-      "changePositive": false,
-      "marketCap": 1083483619328,
+      "price": 1220.28,
+      "change": "+0.43%",
+      "changePositive": true,
+      "marketCap": 1087705186304,
       "rank": 12
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron Technology",
+      "price": 911.29,
+      "change": "+4.92%",
+      "changePositive": true,
+      "marketCap": 1029204672512,
+      "rank": 13
     }
   ]
 }
