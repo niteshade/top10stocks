@@ -83,22 +83,13 @@
       "rank": 9
     },
     {
-      "ticker": "MU",
-      "name": "Micron Technology",
-      "price": 1011.75,
-      "change": "+4.13%",
-      "changePositive": true,
-      "marketCap": 1142663544832,
-      "rank": 10
-    },
-    {
       "ticker": "BRK-A",
       "name": "Berkshire Hathaway (A)",
       "price": 747400.0,
       "change": "-1.08%",
       "changePositive": false,
       "marketCap": 1066644406272,
-      "rank": 11
+      "rank": 10
     },
     {
       "ticker": "BRK-B",
@@ -107,7 +98,7 @@
       "change": "-1.15%",
       "changePositive": false,
       "marketCap": 1066565828608,
-      "rank": 12
+      "rank": 11
     },
     {
       "ticker": "LLY",
@@ -116,7 +107,7 @@
       "change": "+0.25%",
       "changePositive": true,
       "marketCap": 1055072780288,
-      "rank": 13
+      "rank": 12
     }
   ]
 }
