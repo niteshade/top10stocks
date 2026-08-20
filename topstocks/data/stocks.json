@@ -88,17 +88,8 @@
       "price": 1244.4,
       "change": "-2.81%",
       "changePositive": false,
-      "marketCap": 1109204795392,
+      "marketCap": 1109682946048,
       "rank": 10
-    },
-    {
-      "ticker": "MU",
-      "name": "Micron Technology",
-      "price": 974.33,
-      "change": "+3.97%",
-      "changePositive": true,
-      "marketCap": 1100401606656,
-      "rank": 11
     },
     {
       "ticker": "BRK-B",
@@ -107,7 +98,7 @@
       "change": "-0.55%",
       "changePositive": false,
       "marketCap": 1063633027072,
-      "rank": 12
+      "rank": 11
     },
     {
       "ticker": "BRK-A",
@@ -116,7 +107,7 @@
       "change": "-0.74%",
       "changePositive": false,
       "marketCap": 1062648414208,
-      "rank": 13
+      "rank": 12
     }
   ]
 }
