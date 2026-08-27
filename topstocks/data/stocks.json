@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26",
+  "updated": "2026-08-27",
   "stocks": [
     {
       "ticker": "NVDA",
@@ -106,17 +106,8 @@
       "price": 1189.41,
       "change": "-3.59%",
       "changePositive": false,
-      "marketCap": 1060189044736,
+      "marketCap": 1060646158336,
       "rank": 12
-    },
-    {
-      "ticker": "MU",
-      "name": "Micron Technology",
-      "price": 938.4,
-      "change": "+0.58%",
-      "changePositive": true,
-      "marketCap": 1059822567424,
-      "rank": 13
     }
   ]
 }
