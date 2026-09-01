@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31",
+  "updated": "2026-09-01",
   "stocks": [
     {
       "ticker": "NVDA",
@@ -115,7 +115,7 @@
       "price": 1156.73,
       "change": "-1.52%",
       "changePositive": false,
-      "marketCap": 1031504003072,
+      "marketCap": 1031059406848,
       "rank": 13
     }
   ]
