@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04",
+  "updated": "2026-09-07",
   "stocks": [
     {
       "ticker": "NVDA",
@@ -23,7 +23,7 @@
       "ticker": "GOOGL",
       "name": "Alphabet Inc. (Class A)",
       "price": 338.46,
-      "change": "-1.17%",
+      "change": "-1.11%",
       "changePositive": false,
       "marketCap": 4139343675392,
       "rank": 3
@@ -32,7 +32,7 @@
       "ticker": "GOOG",
       "name": "Alphabet Inc. (Class C)",
       "price": 335.31,
-      "change": "-1.11%",
+      "change": "-1.05%",
       "changePositive": false,
       "marketCap": 4100819517440,
       "rank": 4
@@ -58,7 +58,7 @@
     {
       "ticker": "AVGO",
       "name": "Broadcom Inc.",
-      "price": 357.89,
+      "price": 357.9,
       "change": "+0.21%",
       "changePositive": true,
       "marketCap": 1702714146816,
